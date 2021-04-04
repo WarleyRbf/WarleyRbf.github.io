@@ -1,9 +1,9 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Warley Freitas
+description: Página Pessoal
+author: Warley Freitas
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github:https://github.com/WarleyRbf
+about: Estudante de Matemática
 
 baseurl: ""
 url: ""
