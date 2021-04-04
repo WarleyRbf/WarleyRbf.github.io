@@ -1,25 +1,28 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-06-04 13:50:39
-categories: jekyll
+title:  "História da Matemática: Pitágoras"
+date:   2021-04-04 13:50:39
+categories: História
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+##Pitágoras
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Pitágoras foi um filósofo, matemático, astrônomo e músico grego pré-socrático. Nasceu na ilha de Samos no ano aproximado de 570 a.C. e morreu, provavelmente, em 496 a.C.. Passou boa parte de sua vida na antiga região da Magna Grécia (atual território italiano) e lá fundou a sua escola filosófica.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Pitágoras
+Filosofia
+Pitágoras foi um filósofo, matemático e astrônomo grego, fundador de uma seita religiosa e fundador de uma cosmologia baseada na Matemática.
+PUBLICIDADE
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Pitágoras foi um filósofo, matemático, astrônomo e músico grego pré-socrático. Nasceu na ilha de Samos no ano aproximado de 570 a.C. e morreu, provavelmente, em 496 a.C.. Passou boa parte de sua vida na antiga região da Magna Grécia (atual território italiano) e lá fundou a sua escola filosófica .
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Pouco se sabe sobre a vida do pensador pré-socrático devido à distância histórica que o separa de nós. O que se sabe, em geral, advém de antigos historiadores e filósofos, como Heródoto, Xenófanes e Aristóteles. Pitágoras ficou bastante conhecido por ter fundido os seus conhecimentos de Filosofia, Astronomia, Geometria e Música em uma seita, angariando seguidores fiéis de sua doutrina, o pitagorismo.
+
+
+Hoje temos poucas informações sobre a vida do pensador pré-socrático, devido à distância histórica e cronológica que nos separa dele. O pouco que sabemos advém de escritos deixados por filósofos e historiadores antigos, como Xenófanes, Heródoto e Aristóteles. Também não existem escritos e arquivos de autoria de Pitágoras para que analisemos a sua filosofia com certeza autoral.
+
+Sabe-se que o pensador nasceu na Ilha de Samos em 570 a.C. e provavelmente teve contato com Anaximandro, pensador da Escola Jônica e discípulo de Tales, o primeiro filósofo ocidental. Em vida, fundou uma seita, a seita pitagórica, que deu origem à Escola Pitagórica da filosofia pré-socrática. Sua seita, que misturava Matemática, Filosofia, Astronomia e Música em uma doutrina religiosa, buscava a purificação da alma por meio do conhecimento e do pensamento.
+
+Pitágoras foi um exímio geômetra, deixando como principal contribuição para a Matemática a descoberta da relação de igualdade entre o quadrado da hipotenusa e a soma dos quadrados dos catetos no interior de um triângulo retângulo, o que ficou conhecido como teorema de Pitágoras.
+
+![Teorema de Pitágoras](/static/teoremapitagoras.png)
