@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Projects
+title: Projetos
 permalink: /projects/
 ---
 
-Few of my projects.
+Materiais.
