@@ -2,34 +2,34 @@
 	{
 		"name": "Semelhança",
 		"image": "placeholder.jpg",
-		"url": "/static/img/seme.jpg",
+		"url": "#",
 		"date": "Jan 2014",
 		"tags": ["Geometria"]
 	},
 	{
 		"name": "Multiplicação",
-		"image": "/static/img/mult.jpg",
+		"image": "mult.jpg",
 		"url": "#",
 		"date": "May 2014",
 		"tags": ["Aritmética","Macetes"]
 	},
 	{
 		"name": "Número de Ouro",
-		"image": "/static/img/ouro.jpg",
+		"image": "ouro.jpg",
 		"url": "/projetos/ouro.html",
 		"date": "June 2014",
 		"tags": ["Geometria"]
 	},
 	{
 		"name": "Euler",
-		"image": "/static/img/euler.jpg",
+		"image": "euler.jpg",
 		"date": "Oct 2016",
 		"url": "/projetos/pitagoras.html",
 		"tags": ["História"]
 	},
 	{
 		"name": "Números",
-		"image": "/static/img/numero.png",
+		"image": "numero.png",
 		"date": "Oct 2021",
 		"url": "/projetos/numeros.html",
 		"tags": ["História","Aritmética"]
