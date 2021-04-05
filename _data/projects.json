@@ -24,7 +24,7 @@
 		"name": "Euller",
 		"image": "placeholder.jpg",
 		"date": "Oct 2016",
-		"url": "/_posts/pitagoras.html",
+		"url": "({% link_posts/2021-04-04-Euller.md %})",
 		"tags": ["História"]
 	}
 
