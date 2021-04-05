@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: others
-title: Others
+categories: "História"
+title: História
 permalink: /category/others
 ---
