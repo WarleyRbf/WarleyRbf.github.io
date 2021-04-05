@@ -2,6 +2,7 @@
 layout: post
 title:  "História da Matemática: Pitágoras"
 date:   2021-04-04 13:50:39
+categories: História
 ---
 ## Pitágoras :
 

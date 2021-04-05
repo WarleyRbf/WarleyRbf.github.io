@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Multiplicação" 
+categories: Aritmética
 ---
 
 
