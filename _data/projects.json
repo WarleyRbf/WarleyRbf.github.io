@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Semelhança de Triângulos",
+		"name": "Semelhança",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "Jan 2014",
@@ -21,10 +21,11 @@
 		"tags": ["Geometria"]
 	},
 	{
-		"name": "Cool project 4",
+		"name": "Euller",
 		"image": "placeholder.jpg",
 		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"url": "/_posts/2021-04-04-Euller",
+		"tags": ["História"]
 	}
 
 ]
