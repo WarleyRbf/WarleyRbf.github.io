@@ -5,11 +5,7 @@
     "icon": "fa-home",
     "layout": "post"
   },
-  {
-    "text": "Sobre",
-    "url": "/about/",
-    "icon": "fa-graduation-cap"
-  },
+
   {
     "text": "Matérias",
     "url": "/projects",
@@ -20,5 +16,11 @@
     "text": "Desafios",
     "url": "/construcao",
     "icon": "fa-gamepad"
+  },
+  
+    {
+    "text": "Sobre",
+    "url": "/about/",
+    "icon": "fa-graduation-cap"
   },
 ]
