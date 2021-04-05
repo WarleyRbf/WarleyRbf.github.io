@@ -8,35 +8,35 @@
 	},
 	{
 		"name": "Multiplicação",
-		"image": "placeholder.jpg",
+		"image": "/static/img/mult.jpg",
 		"url": "#",
 		"date": "May 2014",
 		"tags": ["Aritmética","Macetes"]
 	},
 	{
 		"name": "Número de Ouro",
-		"image": "placeholder.jpg",
+		"image": "/static/img/ouro.jpg",
 		"url": "/projetos/ouro.html",
 		"date": "June 2014",
 		"tags": ["Geometria"]
 	},
 	{
 		"name": "Euler",
-		"image": "placeholder.jpg",
+		"image": "/static/img/euler.jpg",
 		"date": "Oct 2016",
 		"url": "/projetos/pitagoras.html",
 		"tags": ["História"]
 	},
 	{
 		"name": "Números",
-		"image": "placeholder.jpg",
+		"image": "/static/img/numero.png",
 		"date": "Oct 2021",
 		"url": "/projetos/numeros.html",
 		"tags": ["História","Aritmética"]
 	},
 	{
 		"name": "Multiplicação",
-		"image": "placeholder.jpg",
+		"image": "/static/img/mult.jpg",
 		"date": "Oct 2021",
 		"url": "/projetos/multiplicar.html",
 		"tags": ["História","Aritmética"]
