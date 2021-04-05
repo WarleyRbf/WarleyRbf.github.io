@@ -5,7 +5,7 @@ categories: "Aritmética"
 ---
 
 
-##Multiplicação: Propriedades e Exemplos
+## Multiplicação: Propriedades e Exemplos
 
 Multiplicação é uma das quatro operações básicas da aritmética. Consiste em uma adição sucessivas de um mesmo número produzindo um resultado que chamamos de produto.
 

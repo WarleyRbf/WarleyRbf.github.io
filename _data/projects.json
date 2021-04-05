@@ -16,7 +16,7 @@
 	{
 		"name": "Número de Ouro",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "/projetos/ouro.html",
 		"date": "June 2014",
 		"tags": ["Geometria"]
 	},
@@ -32,6 +32,13 @@
 		"image": "placeholder.jpg",
 		"date": "Oct 2021",
 		"url": "/projetos/numeros.html",
+		"tags": ["História","Aritmética"]
+	},
+	{
+		"name": "Multiplicação",
+		"image": "placeholder.jpg",
+		"date": "Oct 2021",
+		"url": "/projetos/multiplicar.html",
 		"tags": ["História","Aritmética"]
 	}
 
