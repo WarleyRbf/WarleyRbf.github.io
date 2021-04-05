@@ -1,27 +1,27 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "Geometria Analítica",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"date": "Abril 2021",
+		"tags": ["Geometria","Álgebra"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "Geometria Espacial",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"date": "Abril 2021",
+		"tags": ["Geometria"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "Aritmética",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"date": "Abril 2021",
+		"tags": ["Álgebra"]
 	},
 	{
-		"name": "Cool project 4",
+		"name": "Combinátória",
 		"image": "placeholder.jpg",
 		"date": "Oct 2016",
 		"tags": ["Android","nodejs"]
