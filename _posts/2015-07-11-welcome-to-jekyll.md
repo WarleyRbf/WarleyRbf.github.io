@@ -18,4 +18,4 @@ Sabe-se que o pensador nasceu na Ilha de Samos em 570 a.C. e provavelmente teve 
 Pitágoras foi um exímio geômetra, deixando como principal contribuição para a Matemática a descoberta da relação de igualdade entre o quadrado da hipotenusa e a soma dos quadrados dos catetos no interior de um triângulo retângulo, o que ficou conhecido como teorema de Pitágoras.
 
 
-<img src="/static/img/teoremapitagoras.png" />
+<img align="midle" src="/static/img/teoremapitagoras.png" width="100" height="100"/>
