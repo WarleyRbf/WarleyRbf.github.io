@@ -15,5 +15,10 @@
     "url": "/projects",
     "icon": "fa-desktop"
   },
-
+  
+  {
+    "text": "Desafios",
+    "url": "/about",
+    "icon": "fa-controller"
+  },
 ]
