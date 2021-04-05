@@ -4,7 +4,7 @@ title:  "História da Matemática: Pitágoras"
 date:   2021-04-04 13:50:39
 categories: História
 ---
-## Pitágoras
+## Pitágoras :
 
 Pitágoras foi um filósofo, matemático, astrônomo e músico grego pré-socrático. Nasceu na ilha de Samos no ano aproximado de 570 a.C. e morreu, provavelmente, em 496 a.C.. Passou boa parte de sua vida na antiga região da Magna Grécia (atual território italiano) e lá fundou a sua escola filosófica.
 
@@ -18,4 +18,4 @@ Sabe-se que o pensador nasceu na Ilha de Samos em 570 a.C. e provavelmente teve 
 Pitágoras foi um exímio geômetra, deixando como principal contribuição para a Matemática a descoberta da relação de igualdade entre o quadrado da hipotenusa e a soma dos quadrados dos catetos no interior de um triângulo retângulo, o que ficou conhecido como teorema de Pitágoras.
 
 
-<img align="midle" src="/static/img/teoremapitagoras.png" width="100" height="100"/>
+<img align="middle" src="/static/img/teoremapitagoras.png" width="100" height="100"/>
