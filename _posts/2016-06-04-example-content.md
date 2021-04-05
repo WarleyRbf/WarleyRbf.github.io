@@ -2,6 +2,7 @@
 layout: post
 title: "Multiplicação" 
 categories: Aritmética
+permalink: /aritmetica/
 ---
 
 
