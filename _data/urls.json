@@ -17,10 +17,15 @@
     "url": "/construcao/",
     "icon": "fa-gamepad"
   },
-  
+     {
+    "text": "Exercícios",
+    "url": "/exercicios",
+    "icon": "fa-book"
+  },
     {
     "text": "Sobre",
-    "url": "/about/",
+    "url": "/about",
     "icon": "fa-graduation-cap"
   },
+
 ]
