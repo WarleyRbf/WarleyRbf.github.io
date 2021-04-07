@@ -22,16 +22,7 @@
     "url": "/exercicios",
     "icon": "fa-book"
   },
-  {
-    "text": "Tarefas",
-    "url": "/exercicios",
-    "icon": "fa-book"
-  },
-  {
-    "text": "Material",
-    "url": "/exercicios",
-    "icon":"fa-bug"
-  },
+
     {
     "text": "Sobre",
     "url": "/about",
